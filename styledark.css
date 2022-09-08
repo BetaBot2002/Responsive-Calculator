@@ -58,8 +58,8 @@
     position: relative;
     border-radius: 20%;
     background: rgb(43, 36, 74);
-    box-shadow: 5px 5px 10px rgb(0,0,0,0.3),
-    -5px -15px 30px rgb(255,255,255,0.2);
+    box-shadow: 5px 5px 10px rgb(0,0,0,0.3);
+    /*-5px -15px 30px rgb(255,255,255,0.2);*/
     margin: 10px;
     display: flex;
     justify-content: center;
@@ -67,7 +67,11 @@
     min-width: 45px;
     min-height:45px;
     cursor: pointer;
-    color: rgb(198, 223, 245);
+    /*color: rgb(198, 223, 245);*/
+    color: rgb(167, 213, 254);
+    text-shadow: 1px 1px 15px rgb(177, 171, 171);
+    background-color: rgb(30, 29, 29);
+    transition: all 0.5s;
  
 }
 
@@ -101,7 +105,7 @@
 }
 
 .calculator .buttons .backspace{
-    background: rgb(35, 49, 54);
+    background: rgb(144, 2, 59);
 }
 
 .calculator .buttons #value::-webkit-scrollbar{
@@ -145,6 +149,7 @@ footer{
     text-shadow: 3px 3px 20px rgb(177, 171, 171);
     position: fixed;
     bottom: 0;
+    transition: all 1s;
 
 }
 
