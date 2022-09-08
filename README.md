@@ -9,7 +9,7 @@
 
 #Mobile View:
 
-![image](https://user-images.githubusercontent.com/105705266/189190135-52fcd880-c70a-4e83-bd3f-5e8eb1ae7eb8.png)
+![image](https://user-images.githubusercontent.com/105705266/189190536-eaf30c0a-3c5a-46c1-9a9f-7d5b60027b7f.png)
 
 
 
