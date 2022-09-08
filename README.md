@@ -1,15 +1,15 @@
 # Responsive-Calculator
 Click Here for a Live Demo: <a href="https://betabot2002.github.io/Responsive-Calculator/" target="_blank">Live Demo </a>
 
-#Normal Mode:
-![image](https://user-images.githubusercontent.com/105705266/189189688-93d13a18-c533-4529-b6a2-f1ffae2986ff.png)
+<h1>Normal Mode:</h1>
+![image](https://user-images.githubusercontent.com/105705266/189231880-086f8059-c7e8-4175-938a-5e82bc35a371.png)
 
 #Dark Mode:
-![image](https://user-images.githubusercontent.com/105705266/189189866-0cb77168-37a9-4e17-88e2-0fe1ae458405.png)
+![image](https://user-images.githubusercontent.com/105705266/189231947-0c7ec76c-6542-411d-931f-eff1eb764d4b.png)
 
 #Mobile View:
 
-![image](https://user-images.githubusercontent.com/105705266/189190536-eaf30c0a-3c5a-46c1-9a9f-7d5b60027b7f.png)
+![image](https://user-images.githubusercontent.com/105705266/189232066-c80c7f18-1bf0-44f6-95bb-235008b12bfd.png)
 
 
 
